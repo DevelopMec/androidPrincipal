@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Principal</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_fingerprint">Escaneo dactilar</string>
+    <string name="desc_fingerprint">Coloque la yema del dedo en el escáner</string>
+    <string name="note">(El inicio de sesión con la huella dactilar hace que la aplicación inicie sesión mucho más rápido. Su dispositivo debe tener al menos una huella digital registrada en la configuración del dispositivo)</string>
+    <string name="title_activity_home">Huella dactilar</string>
+    <string name="activity_home_desc">Ha iniciado sesión con éxito con la autenticación de huellas dactilares</string>
+    <string name="activity_home_note">Cierre y vuelva a abrir la aplicación para volver a ver la pantalla de autenticación de huellas dactilares</string>
+    <string name="preview_image">Vista</string>
+    <string name="logo_img">Logo</string>
+
+    <string name="device_count_name"># ESCANERS</string>
+    <string name="device_count_default">n/a</string>
+    <string name="status_name">ESTATUS</string>
+    <string name="status_default">n/a</string>
+    <string name="frame_time_name">TIEMPO DE CUADRO</string>
+    <string name="frame_time_default">n/a</string>
+    <string name="enviar_huella">Enviar huella</string>
+    <string name="refresh_btn">Actualizar</string>
+    <string name="start_capture_btn">Iniciar capura</string>
+    <string name="stop_capture_btn">Detener captura</string>
+    <string name="save_Image">Guardar</string>
+    <string name="close_scanner_btn">Cerrar</string>
+
+    <string name="email_image">Guardar huella</string>
+    <string name="enlarge">Enlarge</string>
+
+    <string name="espera_momento">Espere un momento</string>
+
+    <string name="enviando">Enviando información</string>
+</resources>

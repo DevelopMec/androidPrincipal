@@ -1,0 +1,2 @@
+include ':app', ':ftrWsqAndroidHelper', ':ftrScanApiAndroidHelper', ':ftrScanApiAndroidHelper-release'
+rootProject.name='Principal'

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:ftrScanApiAndroidHelper:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/.transforms/a9da4d3dc53e7b5d6b56d70f856d4ccc/ftrScanApiAndroidHelper-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/build/.transforms/a9da4d3dc53e7b5d6b56d70f856d4ccc/ftrScanApiAndroidHelper-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

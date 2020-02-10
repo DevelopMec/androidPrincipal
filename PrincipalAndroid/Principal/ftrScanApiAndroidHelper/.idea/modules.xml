@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ScanAPI_Demo.iml" filepath="$PROJECT_DIR$/../ScanAPI_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ftrScanApiAndroidHelper.iml" filepath="$PROJECT_DIR$/ftrScanApiAndroidHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ftrWsqAndroidHelper/ftrWsqAndroidHelper.iml" filepath="$PROJECT_DIR$/../ftrWsqAndroidHelper/ftrWsqAndroidHelper.iml" />
+    </modules>
+  </component>
+</project>
